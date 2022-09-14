@@ -10,7 +10,7 @@
 <details><summary>Read MIT License</summary>
 <p>
 <br>
-<a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
+<a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src=logo=github&logoColor=FF3333"></a>
 </a>
 </p>
 </details>
